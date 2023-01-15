@@ -1,7 +1,7 @@
 # Orthonormalization Visualization
 This program uses the Plotly library to create an interactive 3D scatter plot that visualizes the relationship between input vectors and their orthonormal counterparts. The user can adjust the angle of the vectors using sliders, and the program will update the plot to show the input vectors in blue and the orthonormal vectors in red.
 
-![alt text](https://github.com/ReemAlsharabi/Gradient-Descent-Visualization/blob/main/v.gif)
+![alt text](https://github.com/ReemAlsharabi/orthonormalization-visualization/blob/main/v.gif)
 
 ## Functionality
 * The _orthogonalize_ function takes in a list of vectors and returns a new list of orthonormal vectors by applying the Gram-Schmidt process.
